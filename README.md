@@ -35,6 +35,8 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![Social-Engineer Toolkit](https://img.shields.io/badge/-SET-8B4513?style=for-the-badge) 
 ![Snort](https://img.shields.io/badge/-Snort-DC143C?style=for-the-badge) 
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-006400?style=for-the-badge)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-FF6600?style=for-the-badge) 
+![GNS3](https://img.shields.io/badge/-GNS3-0066CC?style=for-the-badge) 
 
 
 ## 📊 Languages & Stats
