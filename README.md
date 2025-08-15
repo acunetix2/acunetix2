@@ -36,3 +36,14 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![Snort](https://img.shields.io/badge/-Snort-DC143C?style=for-the-badge) 
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-006400?style=for-the-badge)
 
+
+## 💻 Mostly Used Languages
+
+| Language | Badge |
+|----------|-------|
+| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| VB.NET | ![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white) |
+| HTML5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| SQL | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
