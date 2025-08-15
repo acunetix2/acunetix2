@@ -39,5 +39,5 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 
 ## 📊 Languages & Stats
 
-![Iddy's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IddyChesire&layout=compact&theme=tokyonight)
+![Iddy's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acunetix2&layout=compact&theme=tokyonight)
 
