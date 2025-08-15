@@ -20,12 +20,9 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-## Cybersecurity / Kali Tools
-
 ![Nmap](https://img.shields.io/badge/-Nmap-9BE3FC?style=for-the-badge&logo=nmap&logoColor=black) 
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF6F61?style=for-the-badge&logo=metasploit&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack-ng-2E4057?style=for-the-badge) 
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F15B2A?style=for-the-badge&logo=burp-suite&logoColor=white) 
 ![Hydra](https://img.shields.io/badge/-Hydra-008080?style=for-the-badge) 
 ![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-FF4500?style=for-the-badge) 
@@ -33,7 +30,6 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![SQLmap](https://img.shields.io/badge/-SQLmap-FF9900?style=for-the-badge) 
 ![Hashcat](https://img.shields.io/badge/-Hashcat-1E90FF?style=for-the-badge) 
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-FF0000?style=for-the-badge) 
-![Recon-ng](https://img.shields.io/badge/-Recon-ng-32CD32?style=for-the-badge) 
 ![Netcat](https://img.shields.io/badge/-Netcat-808080?style=for-the-badge) 
 ![Ettercap](https://img.shields.io/badge/-Ettercap-FF1493?style=for-the-badge) 
 ![Social-Engineer Toolkit](https://img.shields.io/badge/-SET-8B4513?style=for-the-badge) 
