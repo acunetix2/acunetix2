@@ -9,6 +9,10 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 💬 Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL, CI/CD, and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
 
 📫 How to reach me: iddychesire098@gmail.com
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iddy-k-chesire-55009b264/)
+
 ## Technologies & Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
