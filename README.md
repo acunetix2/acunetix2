@@ -10,10 +10,8 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 
 📫 How to reach me: iddychesire098@gmail.com
 ## 🔗 Connect with Me
-
-## 🔗 Connect with Me
-
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/iddy-k-chesire-55009b264/)
+
 
 
 ## Technologies & Tools 
