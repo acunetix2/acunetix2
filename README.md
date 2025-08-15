@@ -28,7 +28,6 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![Nmap](https://img.shields.io/badge/-Nmap-9BE3FC?style=for-the-badge&logo=nmap&logoColor=black) 
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF6F61?style=for-the-badge&logo=metasploit&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack-ng-2E4057?style=for-the-badge) 
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F15B2A?style=for-the-badge&logo=burp-suite&logoColor=white) 
 ![Hydra](https://img.shields.io/badge/-Hydra-008080?style=for-the-badge) 
 ![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-FF4500?style=for-the-badge) 
