@@ -1,13 +1,9 @@
 Hi, I’m Iddy Chesire 👋
-
-I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to grow and contribute in both fields.
-
-I’m actively learning: AI-driven security, Computer Networking , and Dev development.
-
-I’m looking to collaborate on: cybersecurity tools, AI projects, HA Network Designs, and web applications.
-
+I am  passionate in Cybersecurity, Networking and AI, eager to grow and contribute in this fields.
+I’m actively learning: AI-driven security, Computer Networking.
+I also do Frontend Web Development which is like fun to me or an hobby i can say.
+I’m looking to collaborate on: cybersecurity tools, AI projects, HA Network Designs, and web applications
 Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL, CI/CD, and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
-
 How to reach me: iddychesire098@gmail.com
 ## 🔗 Connect with Me
 
