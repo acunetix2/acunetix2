@@ -2,7 +2,7 @@ Hi, I’m Iddy Chesire 👋
 
 I am  passionate in Cybersecurity, Networking and AI, eager to grow and contribute in this fields.
 
-I’m actively learning: AI-driven security, Computer Networking.
+I’m actively learning: AI in Cybersecurity, Computer Networking.
 
 I also do Frontend Web Development which is like fun to me or an hobby i can say.
 
