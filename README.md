@@ -7,7 +7,7 @@ I’m actively learning: AI in Cybersecurity, Computer Networking.
 I also do Frontend Web Development which is like fun to me or an hobby i can say.
 
 I’m looking to collaborate on: cybersecurity tools, AI projects, HA Network Designs, and web applications
-Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL, CI/CD, and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
+Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL,and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
 
 How to reach me: iddychesire098@gmail.com
 ## 🔗 Connect with Me
