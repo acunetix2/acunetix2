@@ -2,13 +2,13 @@ Hi, I’m Iddy Chesire 👋
 
 I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to grow and contribute in both fields.
 
-🌱 I’m actively learning: AI-driven security, Computer Networking , and Dev development.
+I’m actively learning: AI-driven security, Computer Networking , and Dev development.
 
-👯 I’m looking to collaborate on: cybersecurity tools, AI projects, HA Network Designs, and web applications.
+I’m looking to collaborate on: cybersecurity tools, AI projects, HA Network Designs, and web applications.
 
-💬 Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL, CI/CD, and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
+Ask me about: JavaScript, Python, VB.NET, React, Node.js, MongoDB, MySQL, CI/CD, and cybersecurity tools[Metasploit, Snort, BurpSuite and other].
 
-📫 How to reach me: iddychesire098@gmail.com
+How to reach me: iddychesire098@gmail.com
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iddy-k-chesire-55009b264/)
@@ -44,7 +44,7 @@ I am a passionate Cybersecurity Engineer and web developer from Kenya, eager to 
 ![GNS3](https://img.shields.io/badge/-GNS3-0066CC?style=for-the-badge) 
 
 
-## 📊 Languages & Stats
+## Languages & Stats
 
 ![Iddy's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acunetix2&layout=compact&theme=tokyonight)
 
