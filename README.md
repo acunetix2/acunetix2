@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Professional%20bug%20creator.%20Occasional%20bug%20fixer;If%20it%20compiles%20I%20am%20celebrating%20%F0%9F%8E%89" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=730&height=44&lines=Professional%20bug%20creator.%20Occasional%20bug%20fixer;If%20it%20compiles%20I%20am%20celebrating%20%F0%9F%8E%89" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
