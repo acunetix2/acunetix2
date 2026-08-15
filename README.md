@@ -21,7 +21,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=520&height=32&lines=%3E+Security-first+engineer;%3E+Full-stack+developer;%3E+Mobile+developer+(Flutter%2FDart);%3E+Curious%2C+relentless+problem-solver" alt="identity typing" />
 
-I'm Iddy, a software engineer who genuinely enjoys the full lifecycle of building something: designing it, breaking it to see how it fails, and hardening it so it doesn't fail that way again. That instinct is what pulls me toward **cybersecurity and networking** alongside product development. I don't just want features to work, I want to understand what happens when someone tries to make them *not* work.
+I'm Iddy. Cybersecurity is my main focus, with software engineering as a close second, and the two feed each other constantly. I enjoy the full lifecycle of building something: designing it, breaking it to see how it fails, and hardening it so it doesn't fail that way again. I don't just want features to work, I want to understand what happens when someone tries to make them not work.
 
 Day to day, I move across the stack: **React/Next.js on the frontend, Node.js/Express (and increasingly .NET) on the backend, PostgreSQL/MongoDB/Firebase for data, and Docker for shipping it all consistently.** I'm also building out mobile skills with **Flutter/Dart**.
 
