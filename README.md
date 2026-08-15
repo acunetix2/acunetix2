@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Security-Minded%20Builder%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> <b>Hi, I'm Iddy — welcome to my profile</b>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> <b>Hi, I'm Iddy, welcome to my profile</b>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=760&height=40&lines=I+build+software.+I+break+it+first.+Then+I+fix+it+right.;Full-stack+engineer+with+a+security-first+mindset.;Currently+building+PrimeBid+%E2%80%94+Kenya's+property+auction+platform." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=760&height=40&lines=I+build+software.+I+break+it+first.+Then+I+fix+it+right.;Full-stack+engineer+with+a+security-first+mindset.;Currently+building+PrimeBid%2C+Kenya's+property+auction+platform." alt="Typing SVG" />
 
 <br/>
 
@@ -15,40 +15,36 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
-
 ## 👋 Who I Am
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Coding.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=520&height=32&lines=%3E+Security-first+engineer;%3E+Full-stack+developer;%3E+Mobile+developer+(Flutter%2FDart);%3E+Curious%2C+relentless+problem-solver" alt="identity typing" />
 
-I'm Iddy — a software engineer who genuinely enjoys the full lifecycle of building something: designing it, breaking it to see how it fails, and hardening it so it doesn't fail that way again. That instinct is what pulls me toward **cybersecurity and networking** alongside product development — I don't just want features to work, I want to understand what happens when someone tries to make them *not* work.
+I'm Iddy, a software engineer who genuinely enjoys the full lifecycle of building something: designing it, breaking it to see how it fails, and hardening it so it doesn't fail that way again. That instinct is what pulls me toward **cybersecurity and networking** alongside product development. I don't just want features to work, I want to understand what happens when someone tries to make them *not* work.
 
 Day to day, I move across the stack: **React/Next.js on the frontend, Node.js/Express (and increasingly .NET) on the backend, PostgreSQL/MongoDB/Firebase for data, and Docker for shipping it all consistently.** I'm also building out mobile skills with **Flutter/Dart**.
 
-I care about software that people actually enjoy using — not just software that technically works.
+I care about software that people actually enjoy using, not just software that technically works.
 
 <br clear="right"/>
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="25%">🔭<br/><b>Building</b><br/><sub>PrimeBid — Kenya's property auction platform</sub></td>
+<td align="center" width="25%">🔭<br/><b>Building</b><br/><sub>PrimeBid, Kenya's property auction platform</sub></td>
 <td align="center" width="25%">🌱<br/><b>Learning</b><br/><sub>Dart & Flutter for mobile</sub></td>
 <td align="center" width="25%">👯<br/><b>Collaborating</b><br/><sub>Mobile application development projects</sub></td>
 <td align="center" width="25%">💬<br/><b>Ask me about</b><br/><sub>React, Node.js, Flutter, Networking, Cybersecurity, Docker</sub></td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
-
-## 🏛️ Featured Project — PrimeBid
+## 🏛️ Featured Project: PrimeBid
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Live+Bidding+%E2%9A%A1;Interactive+Map+Search+%F0%9F%97%BA%EF%B8%8F;M-PESA+%2B+Stripe+Payments+%F0%9F%92%B3;KYC+%26+Identity+Verification+%F0%9F%94%90" alt="PrimeBid features typing" />
 
-**PrimeBid Web Frontend** — a premium Real Estate & Property Auction Platform for the Kenyan market. Live bidding, virtual tours, mortgage calculators, property comparison, dashboards, and payment integrations, all in one place.
+**PrimeBid Web Frontend**: a premium Real Estate & Property Auction Platform for the Kenyan market. Live bidding, virtual tours, mortgage calculators, property comparison, dashboards, and payment integrations, all in one place.
 
 `React 18` · `Vite` · `Tailwind CSS` · `Framer Motion`
 
@@ -56,20 +52,18 @@ I care about software that people actually enjoy using — not just software tha
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
-
 ## 🔐 Security Focus
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=560&height=32&lines=%3E+Think+like+an+attacker%2C+build+like+a+defender;%3E+Every+feature+has+a+failure+mode;%3E+Secure+by+default%2C+not+by+afterthought" alt="security typing" />
 
-Security isn't a side interest I bolt on — it shapes how I build. On a platform like PrimeBid, that means thinking hard about KYC data handling, payment flows, and bid integrity — not just shipping the feature. More broadly, this covers:
+Security isn't a side interest I bolt on, it shapes how I build. On a platform like PrimeBid, that means thinking hard about KYC data handling, payment flows, and bid integrity, not just shipping the feature. More broadly, this covers:
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
 
 **🌐 Networking**
-Understanding how systems actually talk to each other — the layer most bugs and breaches hide in.
+Understanding how systems actually talk to each other: the layer most bugs and breaches hide in.
 
 </td>
 <td width="33%" valign="top">
@@ -86,8 +80,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -119,8 +111,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
-
 ## 📊 GitHub Overview
 
 <table align="center" width="100%">
@@ -150,8 +140,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 <img src="https://raw.githubusercontent.com/acunetix2/acunetix2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -163,8 +151,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 📫 Get In Touch
 
