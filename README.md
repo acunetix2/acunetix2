@@ -44,9 +44,10 @@ I care about software that people actually enjoy using, not just software that t
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Live+Bidding+%E2%9A%A1;Interactive+Map+Search+%F0%9F%97%BA%EF%B8%8F;M-PESA+%2B+Stripe+Payments+%F0%9F%92%B3;KYC+%26+Identity+Verification+%F0%9F%94%90" alt="PrimeBid features typing" />
 
-**PrimeBid Web Frontend**: a premium Real Estate & Property Auction Platform for the Kenyan market. Live bidding, virtual tours, mortgage calculators, property comparison, dashboards, and payment integrations, all in one place.
+**PrimeBid**: a premium Real Estate & Property Auction Platform for the Kenyan market, built as both a mobile app and a web app so buyers, sellers, and bidders can use it wherever they are.
 
-`React 18` · `Vite` · `Tailwind CSS` · `Framer Motion`
+📱 **Mobile app**: on the go bidding, notifications, and property browsing.
+💻 **Web app**: the full experience, dashboards, listings management, and detailed property tools.
 
 🏠 Marketplace & Search &nbsp;·&nbsp; 🔨 Live Auctions & Bidding &nbsp;·&nbsp; 💳 M-PESA & Stripe Payments &nbsp;·&nbsp; 👤 Buyer/Seller Dashboards & KYC
 
@@ -133,18 +134,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 </td>
 </tr>
 </table>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/acunetix2/acunetix2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=acunetix2&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</div>
 
 ## 💭 Quote
 
