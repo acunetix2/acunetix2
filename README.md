@@ -144,13 +144,11 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 </tr>
 </table>
 
-## 🐍 Contribution Snake (live, moving)
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/acunetix2/acunetix2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
-
-> This is a **genuinely animated** SVG — the snake actually crawls across your real contribution graph. I've included the exact workflow file below; drop it into your profile repo and it starts moving on the next scheduled run.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
