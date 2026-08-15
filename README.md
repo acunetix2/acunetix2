@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Security-Minded%20Builder%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20Practitioner%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> <b>Hi, I'm Iddy, welcome to my profile</b>
 
@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=acunetix2&label=Profile%20Views&color=2ea043&style=flat-square" />
 <img src="https://img.shields.io/github/followers/acunetix2?label=Followers&style=flat-square&color=2ea043" />
-<img src="https://img.shields.io/badge/Focus-Security%20%2B%20Mobile-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Security%20%2B%20SE-2ea043?style=flat-square" />
 <img src="https://img.shields.io/badge/Based%20in-Kenya-2ea043?style=flat-square" />
 
 </div>
