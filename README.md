@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=210&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Security-Minded%20Builder%20%7C%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=d1d5da" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Security-Minded%20Builder%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> <b>Hi, I'm Iddy — welcome to my profile</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=760&height=40&lines=I+build+software.+I+break+it+first.+Then+I+fix+it+right.;Full-stack+engineer+with+a+security-first+mindset.;Currently+building+PrimeBid+%E2%80%94+Kenya's+property+auction+platform." alt="Typing SVG" />
 
@@ -13,15 +15,21 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 👋 Who I Am
+
+<img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Coding.gif" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=520&height=32&lines=%3E+Security-first+engineer;%3E+Full-stack+developer;%3E+Mobile+developer+(Flutter%2FDart);%3E+Curious%2C+relentless+problem-solver" alt="identity typing" />
 
 I'm Iddy — a software engineer who genuinely enjoys the full lifecycle of building something: designing it, breaking it to see how it fails, and hardening it so it doesn't fail that way again. That instinct is what pulls me toward **cybersecurity and networking** alongside product development — I don't just want features to work, I want to understand what happens when someone tries to make them *not* work.
 
 Day to day, I move across the stack: **React/Next.js on the frontend, Node.js/Express (and increasingly .NET) on the backend, PostgreSQL/MongoDB/Firebase for data, and Docker for shipping it all consistently.** I'm also building out mobile skills with **Flutter/Dart**.
 
 I care about software that people actually enjoy using — not just software that technically works.
+
+<br clear="right"/>
 
 <table align="center" width="100%">
 <tr>
@@ -32,64 +40,27 @@ I care about software that people actually enjoy using — not just software tha
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
+
 ## 🏛️ Featured Project — PrimeBid
 
-<table align="center" width="100%">
-<tr>
-<td width="100%">
+<div align="center">
 
-**PrimeBid Web Frontend** — a premium, full-featured Real Estate & Property Auction Platform for the Kenyan market.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Live+Bidding+%E2%9A%A1;Interactive+Map+Search+%F0%9F%97%BA%EF%B8%8F;M-PESA+%2B+Stripe+Payments+%F0%9F%92%B3;KYC+%26+Identity+Verification+%F0%9F%94%90" alt="PrimeBid features typing" />
+
+**PrimeBid Web Frontend** — a premium Real Estate & Property Auction Platform for the Kenyan market. Live bidding, virtual tours, mortgage calculators, property comparison, dashboards, and payment integrations, all in one place.
 
 `React 18` · `Vite` · `Tailwind CSS` · `Framer Motion`
 
-Kenya's digital property auction and real estate marketplace — live bidding, virtual tours, mortgage calculators, property comparison, dashboards, and payment integrations, all in one platform.
+🏠 Marketplace & Search &nbsp;·&nbsp; 🔨 Live Auctions & Bidding &nbsp;·&nbsp; 💳 M-PESA & Stripe Payments &nbsp;·&nbsp; 👤 Buyer/Seller Dashboards & KYC
 
-</td>
-</tr>
-</table>
+</div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🏠 Property Marketplace & Search**
-- Dynamic explorer filtered by category, county, price range, and auction status
-- Interactive map search with county filters and price markers
-- Side-by-side comparison of up to 4 properties
-- Saved searches with instant match alerts
-
-</td>
-<td width="50%" valign="top">
-
-**🔨 Live Auctions & Bidding**
-- Real-time bidding with countdown timers and live status badges
-- Auto-bid proxy bidding with configurable max ceilings
-- Bidding history tracker for active bids, outbid alerts, and won auctions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💳 Payments & Escrow**
-- M-PESA Express (STK push) for deposits, fees, and tokens
-- Stripe / card payment processing with validation and receipts
-- Searchable, downloadable transaction history
-
-</td>
-<td width="50%" valign="top">
-
-**👤 User & Seller Hub**
-- Separate buyer and seller dashboards with analytics
-- KYC verification (National ID, KRA PIN, document upload)
-- Viewing schedule manager with calendar reminders
-- Personalized preferences and light/dark luxury themes
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 🔐 Security Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=560&height=32&lines=%3E+Think+like+an+attacker%2C+build+like+a+defender;%3E+Every+feature+has+a+failure+mode;%3E+Secure+by+default%2C+not+by+afterthought" alt="security typing" />
 
 Security isn't a side interest I bolt on — it shapes how I build. On a platform like PrimeBid, that means thinking hard about KYC data handling, payment flows, and bid integrity — not just shipping the feature. More broadly, this covers:
 
@@ -115,6 +86,8 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -146,6 +119,8 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
+
 ## 📊 GitHub Overview
 
 <table align="center" width="100%">
@@ -169,6 +144,16 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 </tr>
 </table>
 
+## 🐍 Contribution Snake (live, moving)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/acunetix2/acunetix2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+> This is a **genuinely animated** SVG — the snake actually crawls across your real contribution graph. I've included the exact workflow file below; drop it into your profile repo and it starts moving on the next scheduled run.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -180,6 +165,8 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0d1117&height=3&width=100%25" width="100%"/>
 
 ## 📫 Get In Touch
 
@@ -193,8 +180,6 @@ Using Docker to keep environments consistent, reproducible, and easier to lock d
 
 </div>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=800&color=8B949E&center=true&vCenter=true&width=560&height=28&lines=Thanks+for+scrolling+this+far+%F0%9F%96%A4;Let's+build+something+that+doesn't+break." alt="footer typing" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" width="100%" />
-
-<p align="center"><i>⭐️ From <a href="https://github.com/acunetix2">acunetix2</a> — thanks for reading this far.</i></p>
