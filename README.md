@@ -1,182 +1,263 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20Practitioner%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> <b>Hi, I'm Iddy, welcome to my profile</b>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=760&height=40&lines=I+build+software.+I+break+it+first.+Then+I+fix+it+right.;Full-stack+engineer+with+a+security-first+mindset.;Building+Turnaround%2C+fleet+operational+intelligence+for+East+Africa.;Native+Android+and+cross-platform+mobile+development." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Application%20Security%20%7C%20Software%20Engineering%20%7C%20Mobile%20Development&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=acunetix2&label=Profile%20Views&color=2ea043&style=flat-square" />
-<img src="https://img.shields.io/github/followers/acunetix2?label=Followers&style=flat-square&color=2ea043" />
-<img src="https://img.shields.io/badge/Focus-Security%20%2B%20Engineering-2ea043?style=flat-square" />
-<img src="https://img.shields.io/badge/Based%20in-Kenya-2ea043?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=750&lines=I+engineer+software.+I+secure+it.+I+make+it+work.;Application+Security+%7C+Software+Engineering;Native+Android+with+Kotlin+%7C+Cross-platform+with+Flutter;Building+Turnaround%3A+Fleet+Intelligence+for+East+Africa." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=acunetix2&style=flat-square&color=2ea043" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ac​​unetix2?style=flat-square&color=2ea043&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/badge/Application%20Security-Focused-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20%26%20Mobile-Engineering-2ea043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Kenya-14532d?style=flat-square"/>
 
 </div>
 
-## 👋 Who I Am
+---
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Coding.gif" />
+## Who I Am
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=520&height=32&lines=%3E+Security-first+engineer;%3E+Full-stack+developer;%3E+Mobile+developer+(Kotlin+%26+Flutter);%3E+Curious%2C+relentless+problem-solver" alt="identity typing" />
+I'm a professional in **Application Security, Software Engineering, and Mobile Development**.
 
-I'm Iddy. Cybersecurity is a major part of how I approach technology, alongside software engineering. The two constantly feed each other. I enjoy the full lifecycle of building something: designing it, engineering it, breaking it to understand how it fails, and hardening it so it doesn't fail that way again. I don't just want features to work; I want to understand what happens when someone tries to make them not work.
+My work brings together three areas:
 
-I work across the software development stack, building web applications with **React, Next.js, Node.js, Express, and .NET**, developing backend systems, and working with databases such as **PostgreSQL, MySQL, MongoDB, and Firebase**.
+- **Application Security:** Understanding vulnerabilities, assessing attack surfaces, conducting security testing, and integrating security into the software development lifecycle.
+- **Software Engineering:** Designing and building scalable applications, backend services, APIs, enterprise systems, and reliable software architectures.
+- **Mobile Development:** Building native Android applications with **Kotlin** and cross-platform applications with **Flutter and Dart**.
 
-On the mobile side, I develop applications using **Kotlin for native Android development and Flutter/Dart for cross-platform applications**. I'm comfortable moving between mobile, web, and backend development, depending on what a product needs.
+I also work with networking, infrastructure, databases, and deployment workflows. I enjoy understanding how systems work internally, identifying weaknesses, and building practical solutions to real-world problems.
 
-Beyond writing code, I'm interested in system architecture, networking, infrastructure, application security, and building software that solves actual operational problems.
+I believe good software should solve a real problem, be engineered properly, secured by design, and built to last.
 
-I care about software that people genuinely enjoy using, not just software that technically works.
-
-<br clear="right"/>
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td align="center" width="25%">🔭<br/><b>Building</b><br/><sub>Turnaround — Fleet operational intelligence</sub></td>
-<td align="center" width="25%">📱<br/><b>Mobile</b><br/><sub>Kotlin, Android & Flutter</sub></td>
-<td align="center" width="25%">👯<br/><b>Collaborating</b><br/><sub>Full-stack, mobile & enterprise systems</sub></td>
-<td align="center" width="25%">💬<br/><b>Ask me about</b><br/><sub>React, Kotlin, Flutter, Backend, Networking & Cybersecurity</sub></td>
-</tr>
-</table>
-
-## 🚛 Featured Project: Turnaround
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Make+every+delay+visible.;Make+every+minute+actionable.;Fleet+intelligence+for+East+African+corridors." alt="Turnaround tagline" />
-
-**Turnaround** is an operational intelligence platform designed for commercial fleet operators and logistics companies across East Africa.
-
-It transforms GPS telemetry into actionable operational insights, helping fleet managers understand vehicle movement, identify facility bottlenecks, monitor turnaround times, and quantify the financial impact of operational delays.
-
-The platform focuses on logistics corridors such as **Mombasa – Nairobi – Malaba**, where delays at container depots, ports, weighbridges, customs yards, and customer facilities can significantly affect fleet efficiency and operating costs.
-
-🚛 **Live Fleet Tracking** &nbsp;·&nbsp; 📍 **Geofencing & GPS Intelligence** &nbsp;·&nbsp; ⏱️ **Dwell Time Analytics** &nbsp;·&nbsp; 💰 **Operational Cost Intelligence** &nbsp;·&nbsp; 📊 **Corridor Analytics**
-
-</div>
-
-### What I'm building
-
-- **Operations Dashboard:** Fleet activity, trip progress, delay exposure, alerts, and operational performance.
-- **Live Corridor Tracker:** Geospatial visualization of fleet positions, vehicle status, speed, and heading.
-- **Fleet & Asset Management:** Vehicle, trailer, tanker, chassis, ship, and container management.
-- **Trip Dispatch:** Vehicle assignment, routes, schedules, cargo, and trip management.
-- **Dwell Intelligence:** Facility geofencing, arrival/departure detection, expected versus actual dwell times, and bottleneck classification.
-- **Financial Intelligence:** Quantification of excess dwell time, operating costs, and potential demurrage exposure.
-- **Bottleneck Detection:** Identification of recurring facility delays, gate holds, weighbridge congestion, and SLA risks.
-
-### Technology
-
-`React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Supabase` `MapLibre` `Tailwind CSS` `Firebase`
-
-## 🔐 Security Focus
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2400&pause=600&color=8B949E&center=false&vCenter=true&width=560&height=32&lines=%3E+Think+like+an+attacker%2C+build+like+a+defender;%3E+Every+feature+has+a+failure+mode;%3E+Secure+by+default%2C+not+by+afterthought" alt="security typing" />
-
-Security isn't a side interest I bolt on; it shapes how I build. I enjoy understanding how applications, networks, and infrastructure can be exploited and applying that knowledge to develop more resilient systems.
-
-My interests and practical experience include:
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🌐 Networking & Infrastructure**
-
-Understanding how systems communicate, network protocols, infrastructure, and the layers where vulnerabilities can emerge.
-
+<td width="25%" align="center">
+<strong>Currently Building</strong><br/>
+Turnaround
 </td>
-<td width="33%" valign="top">
-
-**🛡️ Application Security**
-
-Exploring vulnerabilities, penetration testing, security testing, and thinking through potential attack vectors during development.
-
+<td width="25%" align="center">
+<strong>Specialization</strong><br/>
+Application Security
 </td>
-<td width="33%" valign="top">
-
-**📦 DevOps & Containerization**
-
-Using Docker, CI/CD, and infrastructure tooling to build consistent, reproducible, and maintainable deployment environments.
-
+<td width="25%" align="center">
+<strong>Mobile</strong><br/>
+Kotlin & Flutter
+</td>
+<td width="25%" align="center">
+<strong>Interests</strong><br/>
+Systems & Architecture
 </td>
 </tr>
 </table>
 
-## 🧰 Tech Stack
+---
 
-<div align="center">
+## Featured Project
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,dart,c,cpp,sql,html,css&theme=dark" />
+### Turnaround — Fleet Intelligence for East African Corridors
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,jquery&theme=dark" />
+<a href="https://github.com/acunetix2">
+<img src="https://img.shields.io/badge/PROJECT-TURNAROUND-14532d?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Mobile Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart&theme=dark" />
+**Turnaround** is an operational intelligence platform for commercial fleet and corridor logistics. It transforms GPS telemetry and operational data into actionable insights that help fleet operators understand delays, identify bottlenecks, and improve fleet performance.
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,deno,express,dotnet,fastapi&theme=dark" />
+The platform is being built with East African logistics corridors in mind, particularly the Mombasa–Nairobi–Malaba route.
 
-**Data & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,gcp&theme=dark" />
+**Core capabilities**
 
-**Infrastructure & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,vscode,linux,postman&theme=dark" />
+- Live fleet and corridor tracking.
+- Fleet, vehicle, and asset management.
+- Trip dispatch and operational monitoring.
+- Facility dwell-time intelligence.
+- Expected versus actual facility turnaround time.
+- Excess dwell-time cost analysis in Kenyan shillings.
+- Bottleneck identification across depots, weighbridges, customs yards, and customer facilities.
+- Operational severity scoring and performance analytics.
 
-</div>
+**Technology Stack**
 
-## 📊 GitHub Overview
+`React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Supabase` `MapLibre GL` `Tailwind CSS` `Firebase`
 
-<table align="center" width="100%">
+---
+
+## Application Security
+
+I have a strong interest in understanding how applications and infrastructure can be attacked, assessed, and secured.
+
+**Areas of focus**
+
+| Area | Focus |
+|---|---|
+| Vulnerability Assessment | Web application security, vulnerability identification, attack surfaces, security testing |
+| Secure Engineering | Authentication, authorization, API security, session management, input validation |
+| Network & Infrastructure Security | Network analysis, Linux, system hardening, infrastructure security, monitoring |
+
+**Security learning platforms**
+
+<p>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/></a>
+</p>
+
+---
+
+## Software Engineering
+
+I build software across the frontend, backend, and infrastructure layers, with an emphasis on maintainability, performance, and reliable system design.
+
+- Full-stack web application development.
+- Backend engineering and REST API design.
+- Enterprise application architecture.
+- Database design, modelling, and optimization.
+- Authentication and authorization systems.
+- CI/CD pipelines and deployment workflows.
+- Containerization and infrastructure.
+- Performance, scalability, and reliability.
+
+---
+
+## Mobile Development
+
+I build mobile applications using both native and cross-platform technologies.
+
+<table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=acunetix2&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github" />
+<td width="50%" valign="top">
+
+### Kotlin — Native Android
+
+- Kotlin
+- Android Studio
+- Native Android development
+- Android UI development
+- API integration
+- Local data persistence
+- Authentication and security
+- Application lifecycle management
+
 </td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=acunetix2&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=0d1117&langs_count=8" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=acunetix2&theme=tokyonight&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=acunetix2&bg_color=0d1117&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Activity" />
+<td width="50%" valign="top">
+
+### Flutter — Cross-platform
+
+- Dart
+- Flutter
+- Cross-platform UI development
+- State management
+- REST API integration
+- Authentication
+- Reusable components
+- Application optimization
+
 </td>
 </tr>
 </table>
 
-## 💭 Quote
+---
+
+## Tech Stack & Tools
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,dart,c,cpp,html,css" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,jquery" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,deno,express,dotnet,fastapi" />
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,gcp" />
+</p>
+
+### DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,linux,vscode,postman" />
+</p>
+
+### Security & Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,wireshark" />
+</p>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=acunetix2&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2ea043&icon_color=2ea043"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acunetix2&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=acunetix2&theme=github-dark-blue&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak"/>
+
 </div>
 
-## 📫 Get In Touch
+## Contribution Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/iddy-chesire-55009b264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/mentoiddy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/chesire.exe" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://youtube.com/@montgomery-v5w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:iddychesire098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acunetix2&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=800&color=8B949E&center=true&vCenter=true&width=560&height=28&lines=Thanks+for+scrolling+this+far+%F0%9F%96%A4;Let's+build+something+that+doesn't+break." alt="footer typing" />
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" width="100%" />
+## Let's Connect
+
+I'm always interested in connecting with developers, security enthusiasts, and people building meaningful technology.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/iddy-chesire-55009b264/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/mentoiddy">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://instagram.com/chesire.exe">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@montgomery-v5w">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:iddychesire098@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=100&section=footer" width="100%"/>
+
+</div>
