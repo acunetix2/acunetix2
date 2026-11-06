@@ -235,11 +235,23 @@ I build mobile applications using both native and cross-platform technologies.
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/2ea043/ac​​unetix2"
-  alt="GitHub Contribution Heatmap"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ac​​unetix2/ac​​unetix2/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ac​​unetix2/ac​​unetix2/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Activity"
+    src="https://raw.githubusercontent.com/ac​​unetix2/ac​​unetix2/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 </div>
 ## Let's Connect
