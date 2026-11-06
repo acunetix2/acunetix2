@@ -9,7 +9,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=acunetix2&style=flat-square&color=2ea043" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ac​​unetix2?style=flat-square&color=2ea043&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/acunetix2?style=flat-square&color=2ea043&label=Followers" alt="GitHub Followers"/>
 <img src="https://img.shields.io/badge/Application%20Security-Focused-14532d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Software%20%26%20Mobile-Engineering-2ea043?style=flat-square"/>
 <img src="https://img.shields.io/badge/Location-Kenya-14532d?style=flat-square"/>
@@ -20,7 +20,7 @@
 
 ## Who I Am
 
-I'm a professional in **Application Security, Software Engineering, and Mobile Development**.
+I'm an Engineer with many hats from **Application Security, Software Engineering, and Mobile Development**.
 
 My work brings together three areas:
 
@@ -57,7 +57,7 @@ Systems & Architecture
 
 ## Featured Project
 
-### Turnaround — Fleet Intelligence for East African Corridors
+### Turnaround : Fleet Intelligence for East African Corridors
 
 <a href="https://github.com/acunetix2">
 <img src="https://img.shields.io/badge/PROJECT-TURNAROUND-14532d?style=for-the-badge&logo=github&logoColor=white" />
@@ -129,7 +129,7 @@ I build mobile applications using both native and cross-platform technologies.
 <tr>
 <td width="50%" valign="top">
 
-### Kotlin — Native Android
+### Kotlin - Native Android
 
 - Kotlin
 - Android Studio
@@ -143,7 +143,7 @@ I build mobile applications using both native and cross-platform technologies.
 </td>
 <td width="50%" valign="top">
 
-### Flutter — Cross-platform
+### Flutter - Cross-platform
 
 - Dart
 - Flutter
@@ -210,13 +210,24 @@ I build mobile applications using both native and cross-platform technologies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=acunetix2&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2ea043&icon_color=2ea043"/>
+<img
+  height="180"
+  src="https://github-readme-stats-vercel.zcy.dev/api?username=acunetix2&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2ea043&icon_color=2ea043"
+  alt="GitHub Statistics"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acunetix2&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043"/>
+<img
+  height="180"
+  src="https://github-readme-stats-vercel.zcy.dev/api/top-langs?username=acunetix2&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=acunetix2&theme=github-dark-blue&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=acunetix2&theme=github-dark-blue&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -224,12 +235,13 @@ I build mobile applications using both native and cross-platform technologies.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acunetix2&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+<img
+  src="https://ghchart.rshah.org/2ea043/ac​​unetix2"
+  alt="GitHub Contribution Heatmap"
+  width="100%"
+/>
 
 </div>
-
----
-
 ## Let's Connect
 
 I'm always interested in connecting with developers, security enthusiasts, and people building meaningful technology.
