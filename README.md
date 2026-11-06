@@ -1,5 +1,3 @@
-# Iddy Chesire — GitHub Profile
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=220&section=header&text=Iddy%20Chesire&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20Practitioner%20%7C%20Mobile%20Developer&descAlignY=55&descSize=16&descColor=d1d5da" width="100%" />
@@ -27,7 +25,7 @@ I'm Iddy. Cybersecurity is a major part of how I approach technology, alongside 
 
 I work across the software development stack, building web applications with **React, Next.js, Node.js, Express, and .NET**, developing backend systems, and working with databases such as **PostgreSQL, MySQL, MongoDB, and Firebase**.
 
-On the mobile side, I build applications using **Kotlin for native Android development and Flutter/Dart for cross-platform applications**. I'm comfortable moving between mobile, web, and backend development, depending on what a product needs.
+On the mobile side, I develop applications using **Kotlin for native Android development and Flutter/Dart for cross-platform applications**. I'm comfortable moving between mobile, web, and backend development, depending on what a product needs.
 
 Beyond writing code, I'm interested in system architecture, networking, infrastructure, application security, and building software that solves actual operational problems.
 
@@ -48,7 +46,7 @@ I care about software that people genuinely enjoy using, not just software that 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Make+every+delay+visible.;Make+every+minute+actionable.;Fleet+intelligence+for+East+African+corridors." alt="Turnaround features typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2200&pause=500&color=2EA043&center=true&vCenter=true&width=650&height=30&lines=Make+every+delay+visible.;Make+every+minute+actionable.;Fleet+intelligence+for+East+African+corridors." alt="Turnaround tagline" />
 
 **Turnaround** is an operational intelligence platform designed for commercial fleet operators and logistics companies across East Africa.
 
@@ -73,8 +71,6 @@ The platform focuses on logistics corridors such as **Mombasa – Nairobi – Ma
 ### Technology
 
 `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Supabase` `MapLibre` `Tailwind CSS` `Firebase`
-
-*Currently building Turnaround with Kimi.*
 
 ## 🔐 Security Focus
 
