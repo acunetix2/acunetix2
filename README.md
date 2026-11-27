@@ -593,7 +593,39 @@ I build mobile applications with both **native** and **cross-platform** technolo
 
 ## The Journey
 
-My path so far, written as release notes: newest version first, each one a level up.
+```mermaid
+flowchart TB
+    subgraph R1["Foundations"]
+        direction LR
+        A["<b>JKUAT</b><br/>BSc Information Technology<br/><i>2023 – 2027</i>"]
+        B["<b>Self-Taught</b><br/>Programming beyond<br/>the classroom"]
+        C["<b>Hackathons</b><br/>Building and shipping<br/>under pressure"]
+        A -->|"curiosity"| B -->|"build"| C
+    end
+
+    subgraph R2["Specialising"]
+        direction LR
+        D["<b>Cybersecurity</b><br/>TryHackMe · HTB<br/>PortSwigger · Linux"]
+        E["<b>Application Security</b><br/>Threat modelling<br/>secure code · API security"]
+        F["<b>Intacel Pesa</b><br/>Mobile money app<br/>Intacel Telecommunications Kenya"]
+        D -->|"focus"| E -->|"ship"| F
+    end
+
+    R1 ==>|"then I started breaking things"| R2
+
+    classDef past fill:#0d1117,stroke:#2ea043,stroke-width:1px,color:#c9d1d9
+    classDef now fill:#2ea043,stroke:#3fb950,stroke-width:3px,color:#ffffff
+    class A,B,C,D,E past
+    class F now
+    style R1 fill:transparent,stroke:#14532d,stroke-dasharray:4 4,color:#7d8590
+    style R2 fill:transparent,stroke:#14532d,stroke-dasharray:4 4,color:#7d8590
+```
+
+<sub>Jomo Kenyatta University of Agriculture and Technology → today. The green node is where I am now.</sub>
+
+<details>
+<summary><b>Read it as release notes</b></summary>
+<br/>
 
 <table>
 <tr><td>
@@ -639,6 +671,8 @@ My path so far, written as release notes: newest version first, each one a level
 
 </td></tr>
 </table>
+
+</details>
 
 ---
 
