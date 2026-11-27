@@ -139,7 +139,7 @@ I believe good software should **solve a real problem**, be **engineered properl
 
 ---
 
-## Currently — Software Engineer @ Intacel Telecoms
+## Currently - Software Engineer @ Intacel Telecoms
 
 <a href="#"><img src="https://img.shields.io/badge/INTACEL%20TELECOMS-Software%20Engineer-14532d?style=for-the-badge&logo=signal&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-2ea043?style=for-the-badge"/>
