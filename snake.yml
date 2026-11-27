@@ -1,29 +1,31 @@
-name: Generate Snake Animation
+# Save this as .github/workflows/snake.yml in your acunetix2/acunetix2 repo.
+# It generates the contribution snake SVGs and pushes them to the `output` branch.
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # run manually from the Actions tab
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate snake animation SVG
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: acunetix2
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2ea043&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Push SVG to the "output" branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
