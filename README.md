@@ -33,7 +33,7 @@
 ---
 
 ```console
-┌──(iddy㉿intacel)-[~]
+┌──(iddy㉿profile)-[~]
 └─$ cat /etc/profile.d/iddy.conf
 
   NAME        = "Iddy Chesire"
@@ -287,7 +287,7 @@ spec:
 
 ---
 
-## Now Building — Intacel Pesa
+## Now Building - Intacel Pesa
 
 <img src="https://img.shields.io/badge/NOW%20BUILDING-INTACEL%20PESA-14532d?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20ACTIVE%20DEVELOPMENT-2ea043?style=for-the-badge"/>
