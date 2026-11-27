@@ -488,7 +488,83 @@ I build mobile applications with both **native** and **cross-platform** technolo
 
 <div align="center">
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Animated tech stack: languages, frontend, mobile, backend, databases & cloud, DevOps, and security tools"/>
+<table>
+<tr>
+<td colspan="2" width="100%" align="center" valign="top">
+<br/>
+<b>LANGUAGES</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,dart,c,cpp,html,css&theme=dark&perline=10"/>
+<br/>
+<sub>JavaScript · TypeScript · Python · Java · Kotlin · Dart · C · C++ · HTML · CSS</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>FRONTEND</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,jquery&theme=dark&perline=10"/>
+<br/>
+<sub>React · Next.js · Tailwind · Vite · jQuery</sub>
+<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>MOBILE</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart&theme=dark&perline=10"/>
+<br/>
+<sub>Kotlin · Android Studio · Flutter · Dart</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>BACKEND</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,deno,express,dotnet,fastapi&theme=dark&perline=10"/>
+<br/>
+<sub>Node.js · Deno · Express · .NET · FastAPI</sub>
+<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>DATABASES &amp; CLOUD</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,gcp&theme=dark&perline=10"/>
+<br/>
+<sub>PostgreSQL · MySQL · MongoDB · Firebase · Supabase · GCP</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>DEVOPS &amp; TOOLING</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,vscode,postman&theme=dark&perline=10"/>
+<br/>
+<sub>Docker · Git · GitHub · Actions · Vercel · Netlify · VS Code · Postman</sub>
+<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>SECURITY &amp; NETWORKING</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,wireshark&theme=dark&perline=10"/>
+<br/>
+<sub>Linux · Kali · Bash · Wireshark</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Currently%20focused%20on-Mobile%20%7C%20AppSec%20%7C%20Backend-14532d?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
