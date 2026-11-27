@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2ea043&height=240&section=header&text=Iddy%20Chesire&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Intacel%20Telecoms%20%E2%80%A2%20AppSec%20%E2%80%A2%20Mobile&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="Iddy Chesire header"/>
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&multiline=false&width=820&lines=%24+whoami+--verbose;Software+Engineer+%40+Intacel+Telecoms;I+engineer+software.+I+secure+it.+I+make+it+work.;Application+Security+%7C+Backend+%7C+Infrastructure;Native+Android+(Kotlin)+%7C+Cross-platform+(Flutter);Currently+building+a+mobile+app+%40+Intacel+Telecoms;%24+exit+0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&multiline=false&width=820&lines=%24+whoami+--verbose;Software+Engineer+%40+Intacel+Telecoms;I+engineer+software.+I+secure+it.+I+make+it+work.;Application+Security+%7C+Backend+%7C+Infrastructure;Native+Android+(Kotlin)+%7C+Cross-platform+(Flutter);Now+building%3A+Intacel+Pesa+(mobile+money);%24+exit+0" alt="Typing SVG" />
 
 <br/>
 
@@ -42,7 +42,8 @@
   EMPLOYER    = "Intacel Telecoms"
   LOCATION    = "Kenya (EAT, UTC+3)"
   DISCIPLINES = ["Application Security", "Software Engineering", "Mobile Development"]
-  BUILDING    = "Mobile app @ Intacel Telecoms"
+  BUILDING    = "Intacel Pesa :: mobile money"
+  EDUCATION   = "BSc IT, JKUAT (2023 to 2027)"
   MOTTO       = "Engineered properly. Secured by design. Built to last."
   STATUS      = ● online — open to collaboration
 
@@ -68,7 +69,7 @@
 <td valign="top" width="33%">
 
 **Work**
-- [Now Building: Intacel Mobile App](#now-building--mobile-app--intacel-telecoms)
+- [Now Building: Intacel Pesa](#now-building--intacel-pesa)
 - [Application Security](#application-security)
 - [Software Engineering](#software-engineering)
 - [Mobile Development](#mobile-development)
@@ -79,7 +80,7 @@
 **Everything Else**
 - [Tech Stack](#tech-stack--tools)
 - [Engineering Principles](#engineering-principles)
-- [Journey](#the-journey-as-a-git-graph)
+- [Journey](#the-journey)
 - [Stats](#github-statistics)
 - [Connect](#lets-connect)
 
@@ -118,7 +119,7 @@ I believe good software should **solve a real problem**, be **engineered properl
 </td>
 <td width="20%" align="center">
 <strong>Building</strong><br/>
-<sub>Mobile App<br/>@ Intacel</sub>
+<sub>Intacel Pesa<br/>Mobile Money</sub>
 </td>
 <td width="20%" align="center">
 <strong>Specialisation</strong><br/>
@@ -199,7 +200,7 @@ val iddy = Engineer(
     company     = "Intacel Telecoms",
     location    = "Kenya",
     disciplines = listOf("Application Security", "Software Engineering", "Mobile Development"),
-    building    = "Mobile app @ Intacel Telecoms",
+    building    = "Intacel Pesa (mobile money)",
     principles  = listOf(
         "Solve a real problem",
         "Engineer it properly",
@@ -251,7 +252,7 @@ async def whoami(token: str = Depends(oauth2)):
         "role": "Software Engineer",
         "company": "Intacel Telecoms",
         "focus": ["AppSec", "Backend", "Mobile"],
-        "building": "Mobile app @ Intacel Telecoms",
+        "building": "Intacel Pesa (mobile money)",
     }
 ```
 
@@ -286,13 +287,15 @@ spec:
 
 ---
 
-## Now Building — Mobile App @ Intacel Telecoms
+## Now Building — Intacel Pesa
 
-<img src="https://img.shields.io/badge/NOW%20BUILDING-MOBILE%20APP-14532d?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/NOW%20BUILDING-INTACEL%20PESA-14532d?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20ACTIVE%20DEVELOPMENT-2ea043?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOR-INTACEL%20TELECOMS-0d1117?style=for-the-badge&logo=signal&logoColor=white"/>
+<img src="https://img.shields.io/badge/PRODUCT-MOBILE%20MONEY-0d1117?style=for-the-badge&logo=signal&logoColor=white"/>
 
-Right now I'm building a **mobile application at Intacel Telecoms**. I'm bringing together all three of my disciplines: **mobile engineering** for the app itself, **software engineering** for the backend and APIs behind it, and **application security** for the data and accounts it handles.
+Right now I'm building **Intacel Pesa**, the mobile money app at **Intacel Telecommunications Kenya**.
+
+Mobile money is where all three of my disciplines meet. **Mobile engineering** builds the app people use every day. **Software engineering** builds the backend that moves the money. **Application security** protects the accounts, the PINs and every transaction. Getting it wrong costs people their money, so the bar is high.
 
 
 #### How I'm approaching it
@@ -300,7 +303,8 @@ Right now I'm building a **mobile application at Intacel Telecoms**. I'm bringin
 | Pillar | What it means for the app |
 |---|---|
 | **Polished UX** | Fast, clean, accessible interfaces that feel native on every device |
-| **Secure by design** | Secure token handling, encrypted local storage, hardened auth flows, no secrets in the client |
+| **Secure by design** | Hardened PIN and auth flows, secure token handling, encrypted local storage, no secrets in the client |
+| **Transaction integrity** | Every transaction is validated server-side, idempotent and traceable |
 | **Reliable networking** | Solid API integration, sensible retries and caching, graceful offline behaviour |
 | **Maintainable architecture** | Clear layering and state management, reusable components, testable code |
 | **Performance** | Fast startup, smooth scrolling, low battery and data usage on all networks |
@@ -310,7 +314,7 @@ Right now I'm building a **mobile application at Intacel Telecoms**. I'm bringin
 
 ```mermaid
 flowchart LR
-    subgraph App["Mobile App"]
+    subgraph App["Intacel Pesa App"]
         UI["UI Layer"] --> ST["State Management"] --> REPO["Repository / Data Layer"]
         REPO <-->|"encrypted"| SEC[("Secure Storage")]
     end
@@ -587,36 +591,54 @@ I build mobile applications with both **native** and **cross-platform** technolo
 
 ---
 
-## The Journey (as a git graph)
+## The Journey
 
-```mermaid
-%%{init: { 'theme': 'base', 'themeVariables': { 'git0': '#2ea043', 'git1': '#14532d', 'git2': '#3fb950', 'git3': '#238636', 'commitLabelColor': '#ffffff', 'commitLabelBackground': '#0d1117' } } }%%
-gitGraph
-    commit id: "hello world"
-    commit id: "fell in love with systems"
-    branch security
-    checkout security
-    commit id: "first CTF"
-    commit id: "OWASP Top 10"
-    checkout main
-    branch mobile
-    checkout mobile
-    commit id: "first Kotlin app"
-    commit id: "Flutter + Dart"
-    checkout main
-    merge security
-    merge mobile
-    commit id: "full-stack + infra"
-    branch intacel
-    checkout intacel
-    commit id: "Software Engineer @ Intacel Telecoms"
-    checkout main
-    commit id: "mobile app kickoff"
-    commit id: "secure auth + API layer"
-    checkout main
-    merge intacel
-    commit id: "HEAD → still shipping"
-```
+My path so far, written as release notes: newest version first, each one a level up.
+
+<table>
+<tr><td>
+
+### `v6.0.0` &nbsp;·&nbsp; Intacel Pesa &nbsp;<img src="https://img.shields.io/badge/-LATEST-2ea043?style=flat-square"/>
+**Intacel Telecommunications Kenya**
+
+- **Added:** building Intacel Pesa, a mobile money app, as a Software Engineer
+- **Merged:** mobile development, backend engineering and application security in a single product
+- **Shipping:** the most demanding thing I've built so far, where security protects people's money
+
+---
+
+### `v5.0.0` &nbsp;·&nbsp; Application Security
+- **Added:** threat modelling, secure code review, API and auth security
+- **Changed:** stopped asking *"does it work?"* and started asking *"how would someone break it?"*
+
+---
+
+### `v4.0.0` &nbsp;·&nbsp; Into Cybersecurity
+- **Added:** TryHackMe, Hack The Box, PortSwigger labs, Linux, networking
+- **Discovered:** that understanding how systems fail makes me a better builder
+
+---
+
+### `v3.0.0` &nbsp;·&nbsp; Hackathons
+- **Added:** building under pressure, shipping working demos, working in teams
+- **Learned:** that a finished product beats a perfect plan
+
+---
+
+### `v2.0.0` &nbsp;·&nbsp; Self-Taught Programmer
+- **Added:** taught myself to code beyond the classroom, one project at a time
+- **Learned:** documentation, debugging and persistence
+
+---
+
+### `v1.0.0` &nbsp;·&nbsp; JKUAT &nbsp;<img src="https://img.shields.io/badge/2023%20%E2%80%93%202027-14532d?style=flat-square"/>
+**Jomo Kenyatta University of Agriculture and Technology**
+
+- **Initialised:** Bachelor's degree in Information Technology
+- **Status:** in progress, class of 2027
+
+</td></tr>
+</table>
 
 ---
 
@@ -661,7 +683,7 @@ I'm always happy to connect with **developers, security people, telecom engineer
 
 - Application security, secure code review, threat modelling
 - Software in the telecom space
-- Building and securing mobile apps for telecom users
+- Mobile money, fintech and securing payment apps
 - Kotlin vs Flutter, and when to use each
 - System design and backend architecture
 - CTFs, TryHackMe, Hack The Box and PortSwigger labs
